@@ -1,1 +1,2 @@
-# nsu-shop-cse299
+# Ecommerce_Django
+Django | Bootstrap | Custom Auth | Custom Middleware 
